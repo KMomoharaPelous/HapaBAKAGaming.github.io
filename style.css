@@ -1,37 +1,24 @@
-/* You can add custom CSS and override boostrap styles in this file.  Remember, bootstrap is just CSS at the end of the day! */
 body {
   position: relative;
 }
 
 #hero-section {
-  /* This should be an image. */
   background-image: linear-gradient(rgba(0,0,0,.65), rgba(0,0,0,.25)), url(https://i.imgur.com/6uKOn70.jpg);
   background-position: center;
   background-size: cover;
   background-color: #00b4cc;
   background-attachment: fixed;
-
-  /* Change this values to work for you. */
   padding: clamp(100px, 20vh, 200px) 0;
 }
 
 #profile-img {
-  /* Change this values to work for you. */
   margin: clamp(10px, 20vh, 10px) auto;
-  
-
-  /* This should be an image */
   background-image: url(https://i.imgur.com/ie9UgAJt.jpg);
   background-position: center;
   background-size: cover;
-
   border: 2px solid #00b4cc;
   border-radius: 80%;
-
-  /* Change this values to work for you. */
   height: clamp(90px, 20vh, 200px);
-
-  /* Change this values to work for you. */
   width: clamp(100px, 20vh, 200px);
 } 
 
@@ -41,13 +28,10 @@ body {
 }
 
 #hero-section h2 {
-  /* How to center text? */
 color: #00b4cc;
 font-family: sans-serif;
 text-align: center;
-  /* Add responsive vertical margins via clamp? */
 height: 100px 20vh 100px;
-  
 }
 
 #hero-section h3 {
