@@ -24,7 +24,6 @@ body {
 
 #profile-img:hover {
   transform: scale(1.5);
-  border-radius: 0%;
   transition-duration: 1s;
 }
 
