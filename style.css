@@ -67,10 +67,6 @@ p {
   text-align: center;
 }
 
-#skills-section img {
-  left: 15px;
-}
-
 #photography-section img {
    height: clamp(100px, 20vw, 100px);
    height: auto;
