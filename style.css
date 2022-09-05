@@ -67,7 +67,7 @@ p {
   text-align: center;
 }
 
-#inspiration-section img {
+#photography-section img {
    height: clamp(100px, 20vw, 100px);
    height: 50%;
    width: 90%;
