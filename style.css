@@ -69,6 +69,7 @@ p {
 
 #photography-section img {
    height: clamp(100px, 20vw, 100px);
+   height: auto;
    width: 90%;
 }
 
