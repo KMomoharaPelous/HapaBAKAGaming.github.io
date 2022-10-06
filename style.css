@@ -70,7 +70,7 @@ p {
 #photography-section img {
    height: clamp(100px, 20vw, 100px);
    height: auto;
-   width: 80%;
+   width: 75%;
 }
 
 #contact-section {
