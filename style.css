@@ -68,9 +68,9 @@ p {
 }
 
 #photography-section img {
-   height: clamp(100px, 20vw, 100px);
+   height: clamp(100px, 10vw, 100px);
    height: auto;
-   width: 75%;
+   width: 80%;
 }
 
 #contact-section {
